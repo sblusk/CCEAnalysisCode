@@ -1,0 +1,288 @@
+HV group: 0 UTaX_CB_HV17 SenID(s)=  496 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AT_S1 
+HV group: 1 UTaX_CB_HV14 SenID(s)=  488 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AT_M1 
+HV group: 2 UTaX_CB_HV3 SenID(s)=  497 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AT_S2 
+HV group: 3 UTaX_CB_HV1 SenID(s)=  503 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2AT_M1 
+HV group: 4 UTaX_CT_HV2 SenID(s)=  511 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2AT_S1 
+HV group: 5 UTaX_CT_HV9 SenID(s)=  517 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3AT_M1 
+HV group: 6 UTaX_CT_HV14 SenID(s)=  531 545 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_4AT_M1 UTaX_5AT_M1 
+HV group: 7 UTaX_CT_HV17 SenID(s)=  559 573 587 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_6AT_M1 UTaX_7AT_M1 UTaX_8AT_M1 
+HV group: 8 UTaX_CB_HV17 SenID(s)=  489 504 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AT_M2 UTaX_2AT_M2 
+HV group: 9 UTaX_CB_HV14 SenID(s)=  525 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3AT_S1 
+HV group: 10 UTaX_CB_HV9 SenID(s)=  518 532 539 540 553 -1 -1 -1 -1  SenName(s)=  UTaX_3AT_M2 UTaX_4AT_M2 UTaX_4AT_S1 UTaX_4AT_S2 UTaX_5AT_S1 
+HV group: 11 UTaX_CB_HV2 SenID(s)=  546 560 567 581 -1 -1 -1 -1 -1  SenName(s)=  UTaX_5AT_M2 UTaX_6AT_M2 UTaX_6AT_S1 UTaX_7AT_S1 
+HV group: 12 UTaX_CT_HV1 SenID(s)=  574 582 588 595 -1 -1 -1 -1 -1  SenName(s)=  UTaX_7AT_M2 UTaX_7AT_S2 UTaX_8AT_M2 UTaX_8AT_S1 
+HV group: 13 UTaX_CT_HV3 SenID(s)=  490 498 512 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AT_M3 UTaX_1AT_S3 UTaX_2AT_S2 
+HV group: 14 UTaX_CT_HV14 SenID(s)=  505 519 526 533 541 554 -1 -1 -1  SenName(s)=  UTaX_2AT_M3 UTaX_3AT_M3 UTaX_3AT_S2 UTaX_4AT_M3 UTaX_4AT_S3 UTaX_5AT_S2 
+HV group: 15 UTaX_CT_HV17 SenID(s)=  547 561 568 575 583 589 596 -1 -1  SenName(s)=  UTaX_5AT_M3 UTaX_6AT_M3 UTaX_6AT_S2 UTaX_7AT_M3 UTaX_7AT_S3 UTaX_8AT_M3 UTaX_8AT_S2 
+HV group: 16 UTaX_CB_HV17 SenID(s)=  491 499 506 513 520 527 534 -1 -1  SenName(s)=  UTaX_1AT_M4 UTaX_1AT_S4 UTaX_2AT_M4 UTaX_2AT_S3 UTaX_3AT_M4 UTaX_3AT_S3 UTaX_4AT_M4 
+HV group: 17 UTaX_CB_HV14 SenID(s)=  548 555 562 569 576 590 597 -1 -1  SenName(s)=  UTaX_5AT_M4 UTaX_5AT_S3 UTaX_6AT_M4 UTaX_6AT_S3 UTaX_7AT_M4 UTaX_8AT_M4 UTaX_8AT_S3 
+HV group: 18 UTaX_CB_HV5 SenID(s)=  12 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CT_S1 
+HV group: 19 UTaX_CT_HV4 SenID(s)=  4 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CT_M1 
+HV group: 20 UTaX_CT_HV9 SenID(s)=  13 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CT_S2 
+HV group: 21 UTaX_CT_HV15 SenID(s)=  19 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2CT_M1 
+HV group: 22 UTaX_CT_HV17 SenID(s)=  27 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2CT_S1 
+HV group: 23 UTaX_CB_HV17 SenID(s)=  33 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3CT_M1 
+HV group: 24 UTaX_CB_HV15 SenID(s)=  47 61 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_4CT_M1 UTaX_5CT_M1 
+HV group: 25 UTaX_CB_HV9 SenID(s)=  75 89 103 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_6CT_M1 UTaX_7CT_M1 UTaX_8CT_M1 
+HV group: 26 UTaX_CB_HV4 SenID(s)=  5 20 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CT_M2 UTaX_2CT_M2 
+HV group: 27 UTaX_CT_HV5 SenID(s)=  41 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3CT_S1 
+HV group: 28 UTaX_CT_HV14 SenID(s)=  34 48 55 56 69 -1 -1 -1 -1  SenName(s)=  UTaX_3CT_M2 UTaX_4CT_M2 UTaX_4CT_S1 UTaX_4CT_S2 UTaX_5CT_S1 
+HV group: 29 UTaX_CT_HV17 SenID(s)=  62 76 83 97 -1 -1 -1 -1 -1  SenName(s)=  UTaX_5CT_M2 UTaX_6CT_M2 UTaX_6CT_S1 UTaX_7CT_S1 
+HV group: 30 UTaX_CB_HV17 SenID(s)=  90 98 104 111 -1 -1 -1 -1 -1  SenName(s)=  UTaX_7CT_M2 UTaX_7CT_S2 UTaX_8CT_M2 UTaX_8CT_S1 
+HV group: 31 UTaX_CB_HV15 SenID(s)=  6 14 28 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CT_M3 UTaX_1CT_S3 UTaX_2CT_S2 
+HV group: 32 UTaX_CB_HV10 SenID(s)=  21 35 42 49 57 70 -1 -1 -1  SenName(s)=  UTaX_2CT_M3 UTaX_3CT_M3 UTaX_3CT_S2 UTaX_4CT_M3 UTaX_4CT_S3 UTaX_5CT_S2 
+HV group: 33 UTaX_CT_HV6 SenID(s)=  63 77 84 91 99 105 112 -1 -1  SenName(s)=  UTaX_5CT_M3 UTaX_6CT_M3 UTaX_6CT_S2 UTaX_7CT_M3 UTaX_7CT_S3 UTaX_8CT_M3 UTaX_8CT_S2 
+HV group: 34 UTaX_CT_HV11 SenID(s)=  7 15 22 29 36 43 50 -1 -1  SenName(s)=  UTaX_1CT_M4 UTaX_1CT_S4 UTaX_2CT_M4 UTaX_2CT_S3 UTaX_3CT_M4 UTaX_3CT_S3 UTaX_4CT_M4 
+HV group: 35 UTaX_CT_HV15 SenID(s)=  64 71 78 85 92 106 113 -1 -1  SenName(s)=  UTaX_5CT_M4 UTaX_5CT_S3 UTaX_6CT_M4 UTaX_6CT_S3 UTaX_7CT_M4 UTaX_8CT_M4 UTaX_8CT_S3 
+HV group: 36 UTaX_CT_HV17 SenID(s)=  3 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CB_S1 
+HV group: 37 UTaX_CB_HV17 SenID(s)=  11 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CB_M1 
+HV group: 38 UTaX_CB_HV15 SenID(s)=  2 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CB_S2 
+HV group: 39 UTaX_CB_HV11 SenID(s)=  26 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2CB_M1 
+HV group: 40 UTaX_CB_HV6 SenID(s)=  18 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2CB_S1 
+HV group: 41 UTaX_CT_HV10 SenID(s)=  40 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3CB_M1 
+HV group: 42 UTaX_CT_HV15 SenID(s)=  54 68 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_4CB_M1 UTaX_5CB_M1 
+HV group: 43 UTaX_CT_HV17 SenID(s)=  82 96 110 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_6CB_M1 UTaX_7CB_M1 UTaX_8CB_M1 
+HV group: 44 UTaX_CB_HV15 SenID(s)=  10 25 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CB_M2 UTaX_2CB_M2 
+HV group: 45 UTaX_CB_HV11 SenID(s)=  32 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3CB_S1 
+HV group: 46 UTaX_CB_HV11 SenID(s)=  39 45 46 53 60 -1 -1 -1 -1  SenName(s)=  UTaX_3CB_M2 UTaX_4CB_S2 UTaX_4CB_S1 UTaX_4CB_M2 UTaX_5CB_S1 
+HV group: 47 UTaX_CT_HV7 SenID(s)=  67 74 81 88 -1 -1 -1 -1 -1  SenName(s)=  UTaX_5CB_M2 UTaX_6CB_S1 UTaX_6CB_M2 UTaX_7CB_S1 
+HV group: 48 UTaX_CT_HV11 SenID(s)=  87 95 102 109 -1 -1 -1 -1 -1  SenName(s)=  UTaX_7CB_S2 UTaX_7CB_M2 UTaX_8CB_S1 UTaX_8CB_M2 
+HV group: 49 UTaX_CT_HV15 SenID(s)=  1 9 17 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1CB_S3 UTaX_1CB_M3 UTaX_2CB_S2 
+HV group: 50 UTaX_CT_HV17 SenID(s)=  24 31 38 44 52 59 -1 -1 -1  SenName(s)=  UTaX_2CB_M3 UTaX_3CB_S2 UTaX_3CB_M3 UTaX_4CB_S3 UTaX_4CB_M3 UTaX_5CB_S2 
+HV group: 51 UTaX_CB_HV17 SenID(s)=  66 73 80 86 94 101 108 -1 -1  SenName(s)=  UTaX_5CB_M3 UTaX_6CB_S2 UTaX_6CB_M3 UTaX_7CB_S3 UTaX_7CB_M3 UTaX_8CB_S2 UTaX_8CB_M3 
+HV group: 52 UTaX_CB_HV15 SenID(s)=  0 8 16 23 30 37 51 -1 -1  SenName(s)=  UTaX_1CB_S4 UTaX_1CB_M4 UTaX_2CB_S3 UTaX_2CB_M4 UTaX_3CB_S3 UTaX_3CB_M4 UTaX_4CB_M4 
+HV group: 53 UTaX_CB_HV11 SenID(s)=  58 65 72 79 93 100 107 -1 -1  SenName(s)=  UTaX_5CB_S3 UTaX_5CB_M4 UTaX_6CB_S3 UTaX_6CB_M4 UTaX_7CB_M4 UTaX_8CB_S3 UTaX_8CB_M4 
+HV group: 54 UTaX_CB_HV7 SenID(s)=  487 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AB_S1 
+HV group: 55 UTaX_CT_HV11 SenID(s)=  495 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AB_M1 
+HV group: 56 UTaX_CT_HV11 SenID(s)=  486 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AB_S2 
+HV group: 57 UTaX_CT_HV15 SenID(s)=  510 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2AB_M1 
+HV group: 58 UTaX_CB_HV18 SenID(s)=  502 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_2AB_S1 
+HV group: 59 UTaX_CB_HV15 SenID(s)=  524 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3AB_M1 
+HV group: 60 UTaX_CB_HV11 SenID(s)=  538 552 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_4AB_M1 UTaX_5AB_M1 
+HV group: 61 UTaX_CT_HV7 SenID(s)=  566 580 594 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_6AB_M1 UTaX_7AB_M1 UTaX_8AB_M1 
+HV group: 62 UTaX_CT_HV12 SenID(s)=  494 509 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AB_M2 UTaX_2AB_M2 
+HV group: 63 UTaX_CT_HV16 SenID(s)=  516 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_3AB_S1 
+HV group: 64 UTaX_CT_HV18 SenID(s)=  523 529 530 537 544 -1 -1 -1 -1  SenName(s)=  UTaX_3AB_M2 UTaX_4AB_S2 UTaX_4AB_S1 UTaX_4AB_M2 UTaX_5AB_S1 
+HV group: 65 UTaX_CB_HV18 SenID(s)=  551 558 565 572 -1 -1 -1 -1 -1  SenName(s)=  UTaX_5AB_M2 UTaX_6AB_S1 UTaX_6AB_M2 UTaX_7AB_S1 
+HV group: 66 UTaX_CB_HV16 SenID(s)=  571 579 586 593 -1 -1 -1 -1 -1  SenName(s)=  UTaX_7AB_S2 UTaX_7AB_M2 UTaX_8AB_S1 UTaX_8AB_M2 
+HV group: 67 UTaX_CB_HV12 SenID(s)=  485 493 501 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaX_1AB_S3 UTaX_1AB_M3 UTaX_2AB_S2 
+HV group: 68 UTaX_CB_HV7 SenID(s)=  508 515 522 528 536 543 -1 -1 -1  SenName(s)=  UTaX_2AB_M3 UTaX_3AB_S2 UTaX_3AB_M3 UTaX_4AB_S3 UTaX_4AB_M3 UTaX_5AB_S2 
+HV group: 69 UTaX_CT_HV11 SenID(s)=  550 557 564 570 578 585 592 -1 -1  SenName(s)=  UTaX_5AB_M3 UTaX_6AB_S2 UTaX_6AB_M3 UTaX_7AB_S3 UTaX_7AB_M3 UTaX_8AB_S2 UTaX_8AB_M3 
+HV group: 70 UTaX_CT_HV15 SenID(s)=  484 492 500 507 514 521 535 -1 -1  SenName(s)=  UTaX_1AB_S4 UTaX_1AB_M4 UTaX_2AB_S3 UTaX_2AB_M4 UTaX_3AB_S3 UTaX_3AB_M4 UTaX_4AB_M4 
+HV group: 71 UTaX_CT_HV18 SenID(s)=  542 549 556 563 577 584 591 -1 -1  SenName(s)=  UTaX_5AB_S3 UTaX_5AB_M4 UTaX_6AB_S3 UTaX_6AB_M4 UTaX_7AB_M4 UTaX_8AB_S3 UTaX_8AB_M4 
+HV group: 72 UTaX_CB_HV18 SenID(s)=  610 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AT_S1 
+HV group: 73 UTaX_CB_HV16 SenID(s)=  602 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AT_M1 
+HV group: 74 UTaX_CB_HV12 SenID(s)=  611 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AT_S2 
+HV group: 75 UTaX_CT_HV8 SenID(s)=  617 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2AT_M1 
+HV group: 76 UTaX_CT_HV12 SenID(s)=  625 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2AT_S1 
+HV group: 77 UTaX_CT_HV16 SenID(s)=  631 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3AT_M1 
+HV group: 78 UTaX_CT_HV18 SenID(s)=  645 659 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_4AT_M1 UTaU_5AT_M1 
+HV group: 79 UTaX_CB_HV18 SenID(s)=  673 687 701 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_6AT_M1 UTaU_7AT_M1 UTaU_8AT_M1 
+HV group: 80 UTaX_CB_HV16 SenID(s)=  603 618 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AT_M2 UTaU_2AT_M2 
+HV group: 81 UTaX_CB_HV12 SenID(s)=  639 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3AT_S1 
+HV group: 82 UTaX_CB_HV8 SenID(s)=  632 646 653 654 667 -1 -1 -1 -1  SenName(s)=  UTaU_3AT_M2 UTaU_4AT_M2 UTaU_4AT_S1 UTaU_4AT_S2 UTaU_5AT_S1 
+HV group: 83 UTaX_CT_HV12 SenID(s)=  660 674 681 695 -1 -1 -1 -1 -1  SenName(s)=  UTaU_5AT_M2 UTaU_6AT_M2 UTaU_6AT_S1 UTaU_7AT_S1 
+HV group: 84 UTaX_CT_HV16 SenID(s)=  688 696 702 709 -1 -1 -1 -1 -1  SenName(s)=  UTaU_7AT_M2 UTaU_7AT_S2 UTaU_8AT_M2 UTaU_8AT_S1 
+HV group: 85 UTaX_CT_HV18 SenID(s)=  604 612 626 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AT_M3 UTaU_1AT_S3 UTaU_2AT_S2 
+HV group: 86 UTaX_CB_HV16 SenID(s)=  619 633 640 647 655 668 -1 -1 -1  SenName(s)=  UTaU_2AT_M3 UTaU_3AT_M3 UTaU_3AT_S2 UTaU_4AT_M3 UTaU_4AT_S3 UTaU_5AT_S2 
+HV group: 87 UTaX_CB_HV13 SenID(s)=  661 675 682 689 697 703 710 -1 -1  SenName(s)=  UTaU_5AT_M3 UTaU_6AT_M3 UTaU_6AT_S2 UTaU_7AT_M3 UTaU_7AT_S3 UTaU_8AT_M3 UTaU_8AT_S2 
+HV group: 88 UTaX_CB_HV12 SenID(s)=  605 613 620 627 634 641 648 -1 -1  SenName(s)=  UTaU_1AT_M4 UTaU_1AT_S4 UTaU_2AT_M4 UTaU_2AT_S3 UTaU_3AT_M4 UTaU_3AT_S3 UTaU_4AT_M4 
+HV group: 89 UTaX_CT_HV8 SenID(s)=  662 669 676 683 690 704 711 -1 -1  SenName(s)=  UTaU_5AT_M4 UTaU_5AT_S3 UTaU_6AT_M4 UTaU_6AT_S3 UTaU_7AT_M4 UTaU_8AT_M4 UTaU_8AT_S3 
+HV group: 90 UTaX_CT_HV13 SenID(s)=  126 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CT_S1 
+HV group: 91 UTaX_CT_HV16 SenID(s)=  118 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CT_M1 
+HV group: 92 UTaX_CT_HV18 SenID(s)=  127 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CT_S2 
+HV group: 93 UTaX_CB_HV18 SenID(s)=  133 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2CT_M1 
+HV group: 94 UTaX_CB_HV16 SenID(s)=  141 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2CT_S1 
+HV group: 95 UTaX_CB_HV13 SenID(s)=  147 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3CT_M1 
+HV group: 96 UTaX_CB_HV8 SenID(s)=  161 175 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_4CT_M1 UTaU_5CT_M1 
+HV group: 97 UTaX_CT_HV12 SenID(s)=  189 203 217 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_6CT_M1 UTaU_7CT_M1 UTaU_8CT_M1 
+HV group: 98 UTaX_CT_HV13 SenID(s)=  119 134 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CT_M2 UTaU_2CT_M2 
+HV group: 99 UTaX_CT_HV16 SenID(s)=  155 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3CT_S1 
+HV group: 100 UTaX_CB_HV18 SenID(s)=  148 162 169 170 183 -1 -1 -1 -1  SenName(s)=  UTaU_3CT_M2 UTaU_4CT_M2 UTaU_4CT_S1 UTaU_4CT_S2 UTaU_5CT_S1 
+HV group: 101 UTaX_CB_HV16 SenID(s)=  176 190 197 211 -1 -1 -1 -1 -1  SenName(s)=  UTaU_5CT_M2 UTaU_6CT_M2 UTaU_6CT_S1 UTaU_7CT_S1 
+HV group: 102 UTaX_CB_HV13 SenID(s)=  204 212 218 225 -1 -1 -1 -1 -1  SenName(s)=  UTaU_7CT_M2 UTaU_7CT_S2 UTaU_8CT_M2 UTaU_8CT_S1 
+HV group: 103 UTaX_CT_HV8 SenID(s)=  120 128 142 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CT_M3 UTaU_1CT_S3 UTaU_2CT_S2 
+HV group: 104 UTaX_CT_HV13 SenID(s)=  135 149 156 163 171 184 -1 -1 -1  SenName(s)=  UTaU_2CT_M3 UTaU_3CT_M3 UTaU_3CT_S2 UTaU_4CT_M3 UTaU_4CT_S3 UTaU_5CT_S2 
+HV group: 105 UTaX_CT_HV16 SenID(s)=  177 191 198 205 213 219 226 -1 -1  SenName(s)=  UTaU_5CT_M3 UTaU_6CT_M3 UTaU_6CT_S2 UTaU_7CT_M3 UTaU_7CT_S3 UTaU_8CT_M3 UTaU_8CT_S2 
+HV group: 106 UTaX_CT_HV18 SenID(s)=  121 129 136 143 150 157 164 -1 -1  SenName(s)=  UTaU_1CT_M4 UTaU_1CT_S4 UTaU_2CT_M4 UTaU_2CT_S3 UTaU_3CT_M4 UTaU_3CT_S3 UTaU_4CT_M4 
+HV group: 107 UTaX_CB_HV18 SenID(s)=  178 185 192 199 206 220 227 -1 -1  SenName(s)=  UTaU_5CT_M4 UTaU_5CT_S3 UTaU_6CT_M4 UTaU_6CT_S3 UTaU_7CT_M4 UTaU_8CT_M4 UTaU_8CT_S3 
+HV group: 108 UTaX_CB_HV16 SenID(s)=  117 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CB_S1 
+HV group: 109 UTaX_CB_HV13 SenID(s)=  125 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CB_M1 
+HV group: 110 UTaX_CB_HV8 SenID(s)=  116 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CB_S2 
+HV group: 111 UTaX_CT_HV13 SenID(s)=  140 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2CB_M1 
+HV group: 112 UTaX_CT_HV16 SenID(s)=  132 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2CB_S1 
+HV group: 113 UTaX_CT_HV18 SenID(s)=  154 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3CB_M1 
+HV group: 114 UTaU_CB_HV17 SenID(s)=  168 182 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_4CB_M1 UTaU_5CB_M1 
+HV group: 115 UTaU_CB_HV14 SenID(s)=  196 210 224 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_6CB_M1 UTaU_7CB_M1 UTaU_8CB_M1 
+HV group: 116 UTaU_CB_HV3 SenID(s)=  124 139 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CB_M2 UTaU_2CB_M2 
+HV group: 117 UTaU_CB_HV1 SenID(s)=  146 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3CB_S1 
+HV group: 118 UTaU_CT_HV2 SenID(s)=  153 159 160 167 174 -1 -1 -1 -1  SenName(s)=  UTaU_3CB_M2 UTaU_4CB_S2 UTaU_4CB_S1 UTaU_4CB_M2 UTaU_5CB_S1 
+HV group: 119 UTaU_CT_HV9 SenID(s)=  181 188 195 202 -1 -1 -1 -1 -1  SenName(s)=  UTaU_5CB_M2 UTaU_6CB_S1 UTaU_6CB_M2 UTaU_7CB_S1 
+HV group: 120 UTaU_CT_HV14 SenID(s)=  201 209 216 223 -1 -1 -1 -1 -1  SenName(s)=  UTaU_7CB_S2 UTaU_7CB_M2 UTaU_8CB_S1 UTaU_8CB_M2 
+HV group: 121 UTaU_CT_HV17 SenID(s)=  115 123 131 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1CB_S3 UTaU_1CB_M3 UTaU_2CB_S2 
+HV group: 122 UTaU_CB_HV17 SenID(s)=  138 145 152 158 166 173 -1 -1 -1  SenName(s)=  UTaU_2CB_M3 UTaU_3CB_S2 UTaU_3CB_M3 UTaU_4CB_S3 UTaU_4CB_M3 UTaU_5CB_S2 
+HV group: 123 UTaU_CB_HV14 SenID(s)=  180 187 194 200 208 215 222 -1 -1  SenName(s)=  UTaU_5CB_M3 UTaU_6CB_S2 UTaU_6CB_M3 UTaU_7CB_S3 UTaU_7CB_M3 UTaU_8CB_S2 UTaU_8CB_M3 
+HV group: 124 UTaU_CB_HV9 SenID(s)=  114 122 130 137 144 151 165 -1 -1  SenName(s)=  UTaU_1CB_S4 UTaU_1CB_M4 UTaU_2CB_S3 UTaU_2CB_M4 UTaU_3CB_S3 UTaU_3CB_M4 UTaU_4CB_M4 
+HV group: 125 UTaU_CB_HV2 SenID(s)=  172 179 186 193 207 214 221 -1 -1  SenName(s)=  UTaU_5CB_S3 UTaU_5CB_M4 UTaU_6CB_S3 UTaU_6CB_M4 UTaU_7CB_M4 UTaU_8CB_S3 UTaU_8CB_M4 
+HV group: 126 UTaU_CT_HV1 SenID(s)=  601 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AB_S1 
+HV group: 127 UTaU_CT_HV3 SenID(s)=  609 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AB_M1 
+HV group: 128 UTaU_CT_HV14 SenID(s)=  600 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AB_S2 
+HV group: 129 UTaU_CT_HV17 SenID(s)=  624 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2AB_M1 
+HV group: 130 UTaU_CB_HV17 SenID(s)=  616 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_2AB_S1 
+HV group: 131 UTaU_CB_HV14 SenID(s)=  638 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3AB_M1 
+HV group: 132 UTaU_CB_HV5 SenID(s)=  652 666 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_4AB_M1 UTaU_5AB_M1 
+HV group: 133 UTaU_CT_HV4 SenID(s)=  680 694 708 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_6AB_M1 UTaU_7AB_M1 UTaU_8AB_M1 
+HV group: 134 UTaU_CT_HV9 SenID(s)=  608 623 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AB_M2 UTaU_2AB_M2 
+HV group: 135 UTaU_CT_HV15 SenID(s)=  630 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_3AB_S1 
+HV group: 136 UTaU_CT_HV17 SenID(s)=  637 643 644 651 658 -1 -1 -1 -1  SenName(s)=  UTaU_3AB_M2 UTaU_4AB_S2 UTaU_4AB_S1 UTaU_4AB_M2 UTaU_5AB_S1 
+HV group: 137 UTaU_CB_HV17 SenID(s)=  665 672 679 686 -1 -1 -1 -1 -1  SenName(s)=  UTaU_5AB_M2 UTaU_6AB_S1 UTaU_6AB_M2 UTaU_7AB_S1 
+HV group: 138 UTaU_CB_HV15 SenID(s)=  685 693 700 707 -1 -1 -1 -1 -1  SenName(s)=  UTaU_7AB_S2 UTaU_7AB_M2 UTaU_8AB_S1 UTaU_8AB_M2 
+HV group: 139 UTaU_CB_HV9 SenID(s)=  599 607 615 -1 -1 -1 -1 -1 -1  SenName(s)=  UTaU_1AB_S3 UTaU_1AB_M3 UTaU_2AB_S2 
+HV group: 140 UTaU_CB_HV4 SenID(s)=  622 629 636 642 650 657 -1 -1 -1  SenName(s)=  UTaU_2AB_M3 UTaU_3AB_S2 UTaU_3AB_M3 UTaU_4AB_S3 UTaU_4AB_M3 UTaU_5AB_S2 
+HV group: 141 UTaU_CT_HV5 SenID(s)=  664 671 678 684 692 699 706 -1 -1  SenName(s)=  UTaU_5AB_M3 UTaU_6AB_S2 UTaU_6AB_M3 UTaU_7AB_S3 UTaU_7AB_M3 UTaU_8AB_S2 UTaU_8AB_M3 
+HV group: 142 UTaU_CT_HV14 SenID(s)=  598 606 614 621 628 635 649 -1 -1  SenName(s)=  UTaU_1AB_S4 UTaU_1AB_M4 UTaU_2AB_S3 UTaU_2AB_M4 UTaU_3AB_S3 UTaU_3AB_M4 UTaU_4AB_M4 
+HV group: 143 UTaU_CT_HV17 SenID(s)=  656 663 670 677 691 698 705 -1 -1  SenName(s)=  UTaU_5AB_S3 UTaU_5AB_M4 UTaU_6AB_S3 UTaU_6AB_M4 UTaU_7AB_M4 UTaU_8AB_S3 UTaU_8AB_M4 
+HV group: 144 UTaU_CB_HV17 SenID(s)=  724 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AT_S1 
+HV group: 145 UTaU_CB_HV15 SenID(s)=  716 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AT_M1 
+HV group: 146 UTaU_CB_HV10 SenID(s)=  725 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AT_S2 
+HV group: 147 UTaU_CT_HV6 SenID(s)=  731 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2AT_M1 
+HV group: 148 UTaU_CT_HV11 SenID(s)=  739 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2AT_S1 
+HV group: 149 UTaU_CT_HV15 SenID(s)=  745 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3AT_M1 
+HV group: 150 UTaU_CT_HV17 SenID(s)=  759 773 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_4AT_M1 UTbV_5AT_M1 
+HV group: 151 UTaU_CB_HV17 SenID(s)=  787 801 815 829 -1 -1 -1 -1 -1  SenName(s)=  UTbV_6AT_M1 UTbV_7AT_M1 UTbV_8AT_M1 UTbV_9AT_M1 
+HV group: 152 UTaU_CB_HV15 SenID(s)=  717 732 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AT_M2 UTbV_2AT_M2 
+HV group: 153 UTaU_CB_HV11 SenID(s)=  753 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3AT_S1 
+HV group: 154 UTaU_CB_HV6 SenID(s)=  746 760 767 768 781 -1 -1 -1 -1  SenName(s)=  UTbV_3AT_M2 UTbV_4AT_M2 UTbV_4AT_S1 UTbV_4AT_S2 UTbV_5AT_S1 
+HV group: 155 UTaU_CT_HV10 SenID(s)=  774 788 795 809 -1 -1 -1 -1 -1  SenName(s)=  UTbV_5AT_M2 UTbV_6AT_M2 UTbV_6AT_S1 UTbV_7AT_S1 
+HV group: 156 UTaU_CT_HV15 SenID(s)=  802 810 816 823 830 837 -1 -1 -1  SenName(s)=  UTbV_7AT_M2 UTbV_7AT_S2 UTbV_8AT_M2 UTbV_8AT_S1 UTbV_9AT_M2 UTbV_9AT_S1 
+HV group: 157 UTaU_CT_HV17 SenID(s)=  718 726 740 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AT_M3 UTbV_1AT_S3 UTbV_2AT_S2 
+HV group: 158 UTaU_CB_HV15 SenID(s)=  733 747 754 761 769 782 -1 -1 -1  SenName(s)=  UTbV_2AT_M3 UTbV_3AT_M3 UTbV_3AT_S2 UTbV_4AT_M3 UTbV_4AT_S3 UTbV_5AT_S2 
+HV group: 159 UTaU_CB_HV11 SenID(s)=  775 789 796 803 811 817 824 831 838  SenName(s)=  UTbV_5AT_M3 UTbV_6AT_M3 UTbV_6AT_S2 UTbV_7AT_M3 UTbV_7AT_S3 UTbV_8AT_M3 UTbV_8AT_S2 UTbV_9AT_M3 UTbV_9AT_S2 
+HV group: 160 UTaU_CB_HV11 SenID(s)=  719 727 734 741 748 755 762 -1 -1  SenName(s)=  UTbV_1AT_M4 UTbV_1AT_S4 UTbV_2AT_M4 UTbV_2AT_S3 UTbV_3AT_M4 UTbV_3AT_S3 UTbV_4AT_M4 
+HV group: 161 UTaU_CT_HV7 SenID(s)=  776 783 790 797 804 818 825 832 839  SenName(s)=  UTbV_5AT_M4 UTbV_5AT_S3 UTbV_6AT_M4 UTbV_6AT_S3 UTbV_7AT_M4 UTbV_8AT_M4 UTbV_8AT_S3 UTbV_9AT_M4 UTbV_9AT_S3 
+HV group: 162 UTaU_CT_HV11 SenID(s)=  240 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CT_S1 
+HV group: 163 UTaU_CT_HV15 SenID(s)=  232 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CT_M1 
+HV group: 164 UTaU_CT_HV17 SenID(s)=  241 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CT_S2 
+HV group: 165 UTaU_CB_HV17 SenID(s)=  247 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2CT_M1 
+HV group: 166 UTaU_CB_HV15 SenID(s)=  255 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2CT_S1 
+HV group: 167 UTaU_CB_HV11 SenID(s)=  261 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3CT_M1 
+HV group: 168 UTaU_CB_HV7 SenID(s)=  275 289 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_4CT_M1 UTbV_5CT_M1 
+HV group: 169 UTaU_CT_HV11 SenID(s)=  303 317 331 345 -1 -1 -1 -1 -1  SenName(s)=  UTbV_6CT_M1 UTbV_7CT_M1 UTbV_8CT_M1 UTbV_9CT_M1 
+HV group: 170 UTaU_CT_HV11 SenID(s)=  233 248 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CT_M2 UTbV_2CT_M2 
+HV group: 171 UTaU_CT_HV15 SenID(s)=  269 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3CT_S1 
+HV group: 172 UTaU_CB_HV18 SenID(s)=  262 276 283 284 297 -1 -1 -1 -1  SenName(s)=  UTbV_3CT_M2 UTbV_4CT_M2 UTbV_4CT_S1 UTbV_4CT_S2 UTbV_5CT_S1 
+HV group: 173 UTaU_CB_HV15 SenID(s)=  290 304 311 325 -1 -1 -1 -1 -1  SenName(s)=  UTbV_5CT_M2 UTbV_6CT_M2 UTbV_6CT_S1 UTbV_7CT_S1 
+HV group: 174 UTaU_CB_HV11 SenID(s)=  318 326 332 339 346 353 -1 -1 -1  SenName(s)=  UTbV_7CT_M2 UTbV_7CT_S2 UTbV_8CT_M2 UTbV_8CT_S1 UTbV_9CT_M2 UTbV_9CT_S1 
+HV group: 175 UTaU_CT_HV7 SenID(s)=  234 242 256 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CT_M3 UTbV_1CT_S3 UTbV_2CT_S2 
+HV group: 176 UTaU_CT_HV12 SenID(s)=  249 263 270 277 285 298 -1 -1 -1  SenName(s)=  UTbV_2CT_M3 UTbV_3CT_M3 UTbV_3CT_S2 UTbV_4CT_M3 UTbV_4CT_S3 UTbV_5CT_S2 
+HV group: 177 UTaU_CT_HV16 SenID(s)=  291 305 312 319 327 333 340 347 354  SenName(s)=  UTbV_5CT_M3 UTbV_6CT_M3 UTbV_6CT_S2 UTbV_7CT_M3 UTbV_7CT_S3 UTbV_8CT_M3 UTbV_8CT_S2 UTbV_9CT_M3 UTbV_9CT_S2 
+HV group: 178 UTaU_CT_HV18 SenID(s)=  235 243 250 257 264 271 278 -1 -1  SenName(s)=  UTbV_1CT_M4 UTbV_1CT_S4 UTbV_2CT_M4 UTbV_2CT_S3 UTbV_3CT_M4 UTbV_3CT_S3 UTbV_4CT_M4 
+HV group: 179 UTaU_CB_HV18 SenID(s)=  292 299 306 313 320 334 341 348 355  SenName(s)=  UTbV_5CT_M4 UTbV_5CT_S3 UTbV_6CT_M4 UTbV_6CT_S3 UTbV_7CT_M4 UTbV_8CT_M4 UTbV_8CT_S3 UTbV_9CT_M4 UTbV_9CT_S3 
+HV group: 180 UTaU_CB_HV16 SenID(s)=  231 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CB_S1 
+HV group: 181 UTaU_CB_HV12 SenID(s)=  239 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CB_M1 
+HV group: 182 UTaU_CB_HV7 SenID(s)=  230 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CB_S2 
+HV group: 183 UTaU_CT_HV11 SenID(s)=  254 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2CB_M1 
+HV group: 184 UTaU_CT_HV15 SenID(s)=  246 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2CB_S1 
+HV group: 185 UTaU_CT_HV18 SenID(s)=  268 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3CB_M1 
+HV group: 186 UTaU_CB_HV18 SenID(s)=  282 296 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_4CB_M1 UTbV_5CB_M1 
+HV group: 187 UTaU_CB_HV16 SenID(s)=  310 324 338 352 -1 -1 -1 -1 -1  SenName(s)=  UTbV_6CB_M1 UTbV_7CB_M1 UTbV_8CB_M1 UTbV_9CB_M1 
+HV group: 188 UTaU_CB_HV12 SenID(s)=  238 253 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CB_M2 UTbV_2CB_M2 
+HV group: 189 UTaU_CT_HV8 SenID(s)=  260 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3CB_S1 
+HV group: 190 UTaU_CT_HV12 SenID(s)=  267 273 274 281 288 -1 -1 -1 -1  SenName(s)=  UTbV_3CB_M2 UTbV_4CB_S2 UTbV_4CB_S1 UTbV_4CB_M2 UTbV_5CB_S1 
+HV group: 191 UTaU_CT_HV16 SenID(s)=  295 302 309 316 -1 -1 -1 -1 -1  SenName(s)=  UTbV_5CB_M2 UTbV_6CB_S1 UTbV_6CB_M2 UTbV_7CB_S1 
+HV group: 192 UTaU_CT_HV18 SenID(s)=  315 323 330 337 344 351 -1 -1 -1  SenName(s)=  UTbV_7CB_S2 UTbV_7CB_M2 UTbV_8CB_S1 UTbV_8CB_M2 UTbV_9CB_S1 UTbV_9CB_M2 
+HV group: 193 UTaU_CB_HV18 SenID(s)=  229 237 245 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1CB_S3 UTbV_1CB_M3 UTbV_2CB_S2 
+HV group: 194 UTaU_CB_HV16 SenID(s)=  252 259 266 272 280 287 -1 -1 -1  SenName(s)=  UTbV_2CB_M3 UTbV_3CB_S2 UTbV_3CB_M3 UTbV_4CB_S3 UTbV_4CB_M3 UTbV_5CB_S2 
+HV group: 195 UTaU_CB_HV12 SenID(s)=  294 301 308 314 322 329 336 343 350  SenName(s)=  UTbV_5CB_M3 UTbV_6CB_S2 UTbV_6CB_M3 UTbV_7CB_S3 UTbV_7CB_M3 UTbV_8CB_S2 UTbV_8CB_M3 UTbV_9CB_S2 UTbV_9CB_M3 
+HV group: 196 UTaU_CB_HV8 SenID(s)=  228 236 244 251 258 265 279 -1 -1  SenName(s)=  UTbV_1CB_S4 UTbV_1CB_M4 UTbV_2CB_S3 UTbV_2CB_M4 UTbV_3CB_S3 UTbV_3CB_M4 UTbV_4CB_M4 
+HV group: 197 UTaU_CT_HV12 SenID(s)=  286 293 300 307 321 328 335 342 349  SenName(s)=  UTbV_5CB_S3 UTbV_5CB_M4 UTbV_6CB_S3 UTbV_6CB_M4 UTbV_7CB_M4 UTbV_8CB_S3 UTbV_8CB_M4 UTbV_9CB_S3 UTbV_9CB_M4 
+HV group: 198 UTaU_CT_HV16 SenID(s)=  715 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AB_S1 
+HV group: 199 UTaU_CT_HV18 SenID(s)=  723 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AB_M1 
+HV group: 200 UTaU_CB_HV16 SenID(s)=  714 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AB_S2 
+HV group: 201 UTaU_CB_HV13 SenID(s)=  738 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2AB_M1 
+HV group: 202 UTaU_CB_HV12 SenID(s)=  730 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_2AB_S1 
+HV group: 203 UTaU_CT_HV8 SenID(s)=  752 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3AB_M1 
+HV group: 204 UTaU_CT_HV13 SenID(s)=  766 780 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_4AB_M1 UTbV_5AB_M1 
+HV group: 205 UTaU_CT_HV16 SenID(s)=  794 808 822 836 -1 -1 -1 -1 -1  SenName(s)=  UTbV_6AB_M1 UTbV_7AB_M1 UTbV_8AB_M1 UTbV_9AB_M1 
+HV group: 206 UTaU_CT_HV18 SenID(s)=  722 737 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AB_M2 UTbV_2AB_M2 
+HV group: 207 UTaU_CB_HV18 SenID(s)=  744 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_3AB_S1 
+HV group: 208 UTaU_CB_HV16 SenID(s)=  751 757 758 765 772 -1 -1 -1 -1  SenName(s)=  UTbV_3AB_M2 UTbV_4AB_S2 UTbV_4AB_S1 UTbV_4AB_M2 UTbV_5AB_S1 
+HV group: 209 UTaU_CB_HV13 SenID(s)=  779 786 793 800 -1 -1 -1 -1 -1  SenName(s)=  UTbV_5AB_M2 UTbV_6AB_S1 UTbV_6AB_M2 UTbV_7AB_S1 
+HV group: 210 UTaU_CB_HV8 SenID(s)=  799 807 814 821 828 835 -1 -1 -1  SenName(s)=  UTbV_7AB_S2 UTbV_7AB_M2 UTbV_8AB_S1 UTbV_8AB_M2 UTbV_9AB_S1 UTbV_9AB_M2 
+HV group: 211 UTaU_CT_HV12 SenID(s)=  713 721 729 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbV_1AB_S3 UTbV_1AB_M3 UTbV_2AB_S2 
+HV group: 212 UTaU_CT_HV13 SenID(s)=  736 743 750 756 764 771 -1 -1 -1  SenName(s)=  UTbV_2AB_M3 UTbV_3AB_S2 UTbV_3AB_M3 UTbV_4AB_S3 UTbV_4AB_M3 UTbV_5AB_S2 
+HV group: 213 UTaU_CT_HV16 SenID(s)=  778 785 792 798 806 813 820 827 834  SenName(s)=  UTbV_5AB_M3 UTbV_6AB_S2 UTbV_6AB_M3 UTbV_7AB_S3 UTbV_7AB_M3 UTbV_8AB_S2 UTbV_8AB_M3 UTbV_9AB_S2 UTbV_9AB_M3 
+HV group: 214 UTaU_CB_HV18 SenID(s)=  712 720 728 735 742 749 763 -1 -1  SenName(s)=  UTbV_1AB_S4 UTbV_1AB_M4 UTbV_2AB_S3 UTbV_2AB_M4 UTbV_3AB_S3 UTbV_3AB_M4 UTbV_4AB_M4 
+HV group: 215 UTaU_CB_HV16 SenID(s)=  770 777 784 791 805 812 819 826 833  SenName(s)=  UTbV_5AB_S3 UTbV_5AB_M4 UTbV_6AB_S3 UTbV_6AB_M4 UTbV_7AB_M4 UTbV_8AB_S3 UTbV_8AB_M4 UTbV_9AB_S3 UTbV_9AB_M4 
+HV group: 216 UTaU_CB_HV13 SenID(s)=  852 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AT_S1 
+HV group: 217 UTaU_CT_HV8 SenID(s)=  844 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AT_M1 
+HV group: 218 UTaU_CT_HV13 SenID(s)=  853 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AT_S2 
+HV group: 219 UTaU_CT_HV16 SenID(s)=  859 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2AT_M1 
+HV group: 220 UTaU_CT_HV18 SenID(s)=  867 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2AT_S1 
+HV group: 221 UTaU_CB_HV18 SenID(s)=  873 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3AT_M1 
+HV group: 222 UTaU_CB_HV16 SenID(s)=  887 901 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_4AT_M1 UTbX_5AT_M1 
+HV group: 223 UTaU_CB_HV13 SenID(s)=  915 929 943 957 -1 -1 -1 -1 -1  SenName(s)=  UTbX_6AT_M1 UTbX_7AT_M1 UTbX_8AT_M1 UTbX_9AT_M1 
+HV group: 224 UTaU_CB_HV8 SenID(s)=  845 860 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AT_M2 UTbX_2AT_M2 
+HV group: 225 UTaU_CT_HV13 SenID(s)=  881 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3AT_S1 
+HV group: 226 UTaU_CT_HV16 SenID(s)=  874 888 895 896 909 -1 -1 -1 -1  SenName(s)=  UTbX_3AT_M2 UTbX_4AT_M2 UTbX_4AT_S1 UTbX_4AT_S2 UTbX_5AT_S1 
+HV group: 227 UTaU_CT_HV18 SenID(s)=  902 916 923 937 -1 -1 -1 -1 -1  SenName(s)=  UTbX_5AT_M2 UTbX_6AT_M2 UTbX_6AT_S1 UTbX_7AT_S1 
+HV group: 228 UTbV_CB_HV17 SenID(s)=  930 938 944 951 958 965 -1 -1 -1  SenName(s)=  UTbX_7AT_M2 UTbX_7AT_S2 UTbX_8AT_M2 UTbX_8AT_S1 UTbX_9AT_M2 UTbX_9AT_S1 
+HV group: 229 UTbV_CB_HV14 SenID(s)=  846 854 868 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AT_M3 UTbX_1AT_S3 UTbX_2AT_S2 
+HV group: 230 UTbV_CB_HV3 SenID(s)=  861 875 882 889 897 910 -1 -1 -1  SenName(s)=  UTbX_2AT_M3 UTbX_3AT_M3 UTbX_3AT_S2 UTbX_4AT_M3 UTbX_4AT_S3 UTbX_5AT_S2 
+HV group: 231 UTbV_CB_HV1 SenID(s)=  903 917 924 931 939 945 952 959 966  SenName(s)=  UTbX_5AT_M3 UTbX_6AT_M3 UTbX_6AT_S2 UTbX_7AT_M3 UTbX_7AT_S3 UTbX_8AT_M3 UTbX_8AT_S2 UTbX_9AT_M3 UTbX_9AT_S2 
+HV group: 232 UTbV_CT_HV2 SenID(s)=  847 855 862 869 876 883 890 -1 -1  SenName(s)=  UTbX_1AT_M4 UTbX_1AT_S4 UTbX_2AT_M4 UTbX_2AT_S3 UTbX_3AT_M4 UTbX_3AT_S3 UTbX_4AT_M4 
+HV group: 233 UTbV_CT_HV9 SenID(s)=  904 911 918 925 932 946 953 960 967  SenName(s)=  UTbX_5AT_M4 UTbX_5AT_S3 UTbX_6AT_M4 UTbX_6AT_S3 UTbX_7AT_M4 UTbX_8AT_M4 UTbX_8AT_S3 UTbX_9AT_M4 UTbX_9AT_S3 
+HV group: 234 UTbV_CT_HV14 SenID(s)=  368 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CT_S1 
+HV group: 235 UTbV_CT_HV17 SenID(s)=  360 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CT_M1 
+HV group: 236 UTbV_CB_HV17 SenID(s)=  369 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CT_S2 
+HV group: 237 UTbV_CB_HV14 SenID(s)=  375 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2CT_M1 
+HV group: 238 UTbV_CB_HV9 SenID(s)=  383 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2CT_S1 
+HV group: 239 UTbV_CB_HV2 SenID(s)=  389 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3CT_M1 
+HV group: 240 UTbV_CT_HV1 SenID(s)=  403 417 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_4CT_M1 UTbX_5CT_M1 
+HV group: 241 UTbV_CT_HV3 SenID(s)=  431 445 459 473 -1 -1 -1 -1 -1  SenName(s)=  UTbX_6CT_M1 UTbX_7CT_M1 UTbX_8CT_M1 UTbX_9CT_M1 
+HV group: 242 UTbV_CT_HV14 SenID(s)=  361 376 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CT_M2 UTbX_2CT_M2 
+HV group: 243 UTbV_CT_HV17 SenID(s)=  397 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3CT_S1 
+HV group: 244 UTbV_CB_HV17 SenID(s)=  390 404 411 412 425 -1 -1 -1 -1  SenName(s)=  UTbX_3CT_M2 UTbX_4CT_M2 UTbX_4CT_S1 UTbX_4CT_S2 UTbX_5CT_S1 
+HV group: 245 UTbV_CB_HV14 SenID(s)=  418 432 439 453 -1 -1 -1 -1 -1  SenName(s)=  UTbX_5CT_M2 UTbX_6CT_M2 UTbX_6CT_S1 UTbX_7CT_S1 
+HV group: 246 UTbV_CB_HV5 SenID(s)=  446 454 460 467 474 481 -1 -1 -1  SenName(s)=  UTbX_7CT_M2 UTbX_7CT_S2 UTbX_8CT_M2 UTbX_8CT_S1 UTbX_9CT_M2 UTbX_9CT_S1 
+HV group: 247 UTbV_CT_HV4 SenID(s)=  362 370 384 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CT_M3 UTbX_1CT_S3 UTbX_2CT_S2 
+HV group: 248 UTbV_CT_HV9 SenID(s)=  377 391 398 405 413 426 -1 -1 -1  SenName(s)=  UTbX_2CT_M3 UTbX_3CT_M3 UTbX_3CT_S2 UTbX_4CT_M3 UTbX_4CT_S3 UTbX_5CT_S2 
+HV group: 249 UTbV_CT_HV15 SenID(s)=  419 433 440 447 455 461 468 475 482  SenName(s)=  UTbX_5CT_M3 UTbX_6CT_M3 UTbX_6CT_S2 UTbX_7CT_M3 UTbX_7CT_S3 UTbX_8CT_M3 UTbX_8CT_S2 UTbX_9CT_M3 UTbX_9CT_S2 
+HV group: 250 UTbV_CT_HV17 SenID(s)=  363 371 378 385 392 399 406 -1 -1  SenName(s)=  UTbX_1CT_M4 UTbX_1CT_S4 UTbX_2CT_M4 UTbX_2CT_S3 UTbX_3CT_M4 UTbX_3CT_S3 UTbX_4CT_M4 
+HV group: 251 UTbV_CB_HV17 SenID(s)=  420 427 434 441 448 462 469 476 483  SenName(s)=  UTbX_5CT_M4 UTbX_5CT_S3 UTbX_6CT_M4 UTbX_6CT_S3 UTbX_7CT_M4 UTbX_8CT_M4 UTbX_8CT_S3 UTbX_9CT_M4 UTbX_9CT_S3 
+HV group: 252 UTbV_CB_HV15 SenID(s)=  359 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CB_S1 
+HV group: 253 UTbV_CB_HV9 SenID(s)=  367 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CB_M1 
+HV group: 254 UTbV_CB_HV4 SenID(s)=  358 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CB_S2 
+HV group: 255 UTbV_CT_HV5 SenID(s)=  382 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2CB_M1 
+HV group: 256 UTbV_CT_HV14 SenID(s)=  374 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2CB_S1 
+HV group: 257 UTbV_CT_HV17 SenID(s)=  396 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3CB_M1 
+HV group: 258 UTbV_CB_HV17 SenID(s)=  410 424 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_4CB_M1 UTbX_5CB_M1 
+HV group: 259 UTbV_CB_HV15 SenID(s)=  438 452 466 480 -1 -1 -1 -1 -1  SenName(s)=  UTbX_6CB_M1 UTbX_7CB_M1 UTbX_8CB_M1 UTbX_9CB_M1 
+HV group: 260 UTbV_CB_HV10 SenID(s)=  366 381 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CB_M2 UTbX_2CB_M2 
+HV group: 261 UTbV_CT_HV6 SenID(s)=  388 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3CB_S1 
+HV group: 262 UTbV_CT_HV11 SenID(s)=  395 401 402 409 416 -1 -1 -1 -1  SenName(s)=  UTbX_3CB_M2 UTbX_4CB_S2 UTbX_4CB_S1 UTbX_4CB_M2 UTbX_5CB_S1 
+HV group: 263 UTbV_CT_HV15 SenID(s)=  423 430 437 444 -1 -1 -1 -1 -1  SenName(s)=  UTbX_5CB_M2 UTbX_6CB_S1 UTbX_6CB_M2 UTbX_7CB_S1 
+HV group: 264 UTbV_CT_HV17 SenID(s)=  443 451 458 465 472 479 -1 -1 -1  SenName(s)=  UTbX_7CB_S2 UTbX_7CB_M2 UTbX_8CB_S1 UTbX_8CB_M2 UTbX_9CB_S1 UTbX_9CB_M2 
+HV group: 265 UTbV_CB_HV17 SenID(s)=  357 365 373 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1CB_S3 UTbX_1CB_M3 UTbX_2CB_S2 
+HV group: 266 UTbV_CB_HV15 SenID(s)=  380 387 394 400 408 415 -1 -1 -1  SenName(s)=  UTbX_2CB_M3 UTbX_3CB_S2 UTbX_3CB_M3 UTbX_4CB_S3 UTbX_4CB_M3 UTbX_5CB_S2 
+HV group: 267 UTbV_CB_HV11 SenID(s)=  422 429 436 442 450 457 464 471 478  SenName(s)=  UTbX_5CB_M3 UTbX_6CB_S2 UTbX_6CB_M3 UTbX_7CB_S3 UTbX_7CB_M3 UTbX_8CB_S2 UTbX_8CB_M3 UTbX_9CB_S2 UTbX_9CB_M3 
+HV group: 268 UTbV_CB_HV6 SenID(s)=  356 364 372 379 386 393 407 -1 -1  SenName(s)=  UTbX_1CB_S4 UTbX_1CB_M4 UTbX_2CB_S3 UTbX_2CB_M4 UTbX_3CB_S3 UTbX_3CB_M4 UTbX_4CB_M4 
+HV group: 269 UTbV_CT_HV10 SenID(s)=  414 421 428 435 449 456 463 470 477  SenName(s)=  UTbX_5CB_S3 UTbX_5CB_M4 UTbX_6CB_S3 UTbX_6CB_M4 UTbX_7CB_M4 UTbX_8CB_S3 UTbX_8CB_M4 UTbX_9CB_S3 UTbX_9CB_M4 
+HV group: 270 UTbV_CT_HV15 SenID(s)=  843 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AB_S1 
+HV group: 271 UTbV_CT_HV17 SenID(s)=  851 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AB_M1 
+HV group: 272 UTbV_CB_HV15 SenID(s)=  842 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AB_S2 
+HV group: 273 UTbV_CB_HV11 SenID(s)=  866 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2AB_M1 
+HV group: 274 UTbV_CB_HV11 SenID(s)=  858 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_2AB_S1 
+HV group: 275 UTbV_CT_HV7 SenID(s)=  880 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3AB_M1 
+HV group: 276 UTbV_CT_HV11 SenID(s)=  894 908 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_4AB_M1 UTbX_5AB_M1 
+HV group: 277 UTbV_CT_HV15 SenID(s)=  922 936 950 964 -1 -1 -1 -1 -1  SenName(s)=  UTbX_6AB_M1 UTbX_7AB_M1 UTbX_8AB_M1 UTbX_9AB_M1 
+HV group: 278 UTbV_CT_HV17 SenID(s)=  850 865 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AB_M2 UTbX_2AB_M2 
+HV group: 279 UTbV_CB_HV17 SenID(s)=  872 -1 -1 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_3AB_S1 
+HV group: 280 UTbV_CB_HV15 SenID(s)=  879 885 886 893 900 -1 -1 -1 -1  SenName(s)=  UTbX_3AB_M2 UTbX_4AB_S2 UTbX_4AB_S1 UTbX_4AB_M2 UTbX_5AB_S1 
+HV group: 281 UTbV_CB_HV11 SenID(s)=  907 914 921 928 -1 -1 -1 -1 -1  SenName(s)=  UTbX_5AB_M2 UTbX_6AB_S1 UTbX_6AB_M2 UTbX_7AB_S1 
+HV group: 282 UTbV_CB_HV7 SenID(s)=  927 935 942 949 956 963 -1 -1 -1  SenName(s)=  UTbX_7AB_S2 UTbX_7AB_M2 UTbX_8AB_S1 UTbX_8AB_M2 UTbX_9AB_S1 UTbX_9AB_M2 
+HV group: 283 UTbV_CT_HV11 SenID(s)=  841 849 857 -1 -1 -1 -1 -1 -1  SenName(s)=  UTbX_1AB_S3 UTbX_1AB_M3 UTbX_2AB_S2 
+HV group: 284 UTbV_CT_HV11 SenID(s)=  864 871 878 884 892 899 -1 -1 -1  SenName(s)=  UTbX_2AB_M3 UTbX_3AB_S2 UTbX_3AB_M3 UTbX_4AB_S3 UTbX_4AB_M3 UTbX_5AB_S2 
+HV group: 285 UTbV_CT_HV15 SenID(s)=  906 913 920 926 934 941 948 955 962  SenName(s)=  UTbX_5AB_M3 UTbX_6AB_S2 UTbX_6AB_M3 UTbX_7AB_S3 UTbX_7AB_M3 UTbX_8AB_S2 UTbX_8AB_M3 UTbX_9AB_S2 UTbX_9AB_M3 
+HV group: 286 UTbV_CB_HV18 SenID(s)=  840 848 856 863 870 877 891 -1 -1  SenName(s)=  UTbX_1AB_S4 UTbX_1AB_M4 UTbX_2AB_S3 UTbX_2AB_M4 UTbX_3AB_S3 UTbX_3AB_M4 UTbX_4AB_M4 
+HV group: 287 UTbV_CB_HV15 SenID(s)=  898 905 912 919 933 940 947 954 961  SenName(s)=  UTbX_5AB_S3 UTbX_5AB_M4 UTbX_6AB_S3 UTbX_6AB_M4 UTbX_7AB_M4 UTbX_8AB_S3 UTbX_8AB_M4 UTbX_9AB_S3 UTbX_9AB_M4 
