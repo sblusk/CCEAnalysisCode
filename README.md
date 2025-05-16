@@ -17,7 +17,9 @@ Runs interactiverly in ROOT. Initial code tested and ran in ROOT 6.34.06
 
 
 .L CCEScan.C
+
 CCEScan s
+
 s.Loop()
 
 This will produce a single ROOT output (CCEResults_Date_Time.root) file that has date and time in file name.
