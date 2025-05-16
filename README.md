@@ -29,6 +29,7 @@ This ROOT file is then analyzed with GetBestVoltage.{C,h}.
 In ROOT execute with:
 
 .L GetBestVoltage.C
+
 GetBestVoltage("CCEScanResults_D2025-04-11_T04-06-55.root")     [Provide root file output produced with CCEScan]
 
 A number of files get produced in a subdir results_DATE_TIME. Most notably:
